@@ -29,13 +29,23 @@ Ensure you have the following installed:
 ## File Structure
 📁 millionaire-quiz-game/
 ├── 📁 Games/                # Folder for Excel game data
+
 ├── 📁 images/               # Folder for required images
+
 ├── 📄 main.py               # Entry point for the game
+
 ├── 📄 classes.py            # Core classes (e.g., Box for GUI elements)
+
 ├── 📄 colors.py             # Color constants and utility functions
+
 ├── 📄 controls.py           # Mouse and event handling
+
 ├── 📄 layout.py             # UI rendering functions
+
 ├── 📄 image.py              # Image rendering functions
+
 ├── 📄 excel_loader.py       # Excel data loader
+
 ├── 📄 global_variables.py   # Global variables
+
 └── 📄 requirements.txt      # Python dependencies
