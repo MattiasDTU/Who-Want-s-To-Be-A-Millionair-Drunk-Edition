@@ -1,19 +1,13 @@
 # Who Wants to Be a Millionaire - Quiz Game
 
-A Python-based interactive quiz game inspired by "Who Wants to Be a Millionaire." The game uses `pygame` for the graphical user interface and Excel files for questions and answers.
+A Python-based interactive quiz game inspired by "Who Wants to Be a Millionaire.". In this game you're able to include your own questions by modefying one of the Excel sheets. MAX and MIN 20 questions. You must go into settings (when running the program) and choose which quiz to use, before pressing start. Currently you have to restart the program after running it once :^)
 
 ---
 
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
 2. [Installation](#installation)
-3. [Usage](#usage)
 4. [File Structure](#file-structure)
-5. [Game Features](#game-features)
-6. [Customization](#customization)
-7. [Troubleshooting](#troubleshooting)
-8. [License](#license)
-
 ---
 
 ## Prerequisites
@@ -23,8 +17,6 @@ Ensure you have the following installed:
 - **Libraries**:
   - `pygame`: For GUI (`pip install pygame`)
   - `pandas`: For handling Excel files (`pip install pandas`)
-  - `Pillow`: For image manipulation (`pip install pillow`)
-
 ---
 
 ## Installation
@@ -34,3 +26,16 @@ Ensure you have the following installed:
    git clone https://github.com/MattiasDTU/millionaire-quiz-game.git
    cd millionaire-quiz-game
 
+## File Structure
+📁 millionaire-quiz-game/
+├── 📁 Games/                # Folder for Excel game data
+├── 📁 images/               # Folder for required images
+├── 📄 main.py               # Entry point for the game
+├── 📄 classes.py            # Core classes (e.g., Box for GUI elements)
+├── 📄 colors.py             # Color constants and utility functions
+├── 📄 controls.py           # Mouse and event handling
+├── 📄 layout.py             # UI rendering functions
+├── 📄 image.py              # Image rendering functions
+├── 📄 excel_loader.py       # Excel data loader
+├── 📄 global_variables.py   # Global variables
+└── 📄 requirements.txt      # Python dependencies
