@@ -9,6 +9,7 @@ A Python-based interactive quiz game inspired by "Who Wants to Be a Millionaire.
 2. [Installation](#installation)
 4. [File Structure](#file-structure)
 ---
+![image](https://github.com/user-attachments/assets/4480e2f1-b055-4473-9c8e-1d44a81501fe)
 
 ## Prerequisites
 
