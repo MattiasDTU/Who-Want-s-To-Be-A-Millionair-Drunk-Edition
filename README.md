@@ -8,7 +8,7 @@ A Python-based interactive quiz game inspired by "Who Wants to Be a Millionaire.
 
 - **Customizable Gameplay**: Add your own questions using Excel files.
 - **Interactive Graphics**: Dynamic menus and in-game visual elements.
-- **Lifelines**: Includes 50/50, Ask the Audience, Phone a Friend, and a unique "Take a Shot" feature.
+- **Lifelines**: Includes 50/50, Ask the Audience, Phone a Friend, and a unique "Take a Shot to remove an answer" feature.
 - **Progressive Challenges**: Earn guaranteed prizes after answering 5, 10, and 15 questions.
 - **Drink Game Mechanics**: Opt to drink to continue after wrong answers (for adult audiences).
 ---
