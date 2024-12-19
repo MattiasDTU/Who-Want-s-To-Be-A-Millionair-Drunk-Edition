@@ -39,10 +39,10 @@ def menu(screen: pygame.Surface, width: int, height: int, GAMES: dict) -> None:
     """
     Display the main menu on the screen.
     
-    :param screen: pygame.Surface, The surface where the menu will be drawn.
-    :param width: int, The width of the screen.
-    :param height: int, The height of the screen.
-    :return: None
+        :param screen: pygame.Surface, The surface where the menu will be drawn.
+        :param width: int, The width of the screen.
+        :param height: int, The height of the screen.
+        :return: None
     """
     # ---- Game Constants ---- #
     CURRENT_GAME = None

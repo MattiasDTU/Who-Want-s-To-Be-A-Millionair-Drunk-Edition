@@ -199,6 +199,7 @@ def game(screen: pygame.Surface, width: int, height: int, rules: tuple[bool, boo
         QuestionIdx = 0
         Answered = 0
         QuestionCount = len(QuestAndAnswers)
+        print(QuestionCount)
         point_system = [100,200,300,500,1000,2000,4000,8000,16000,32000,64000,
                         125000,250000,500000,1000000,2000000,4000000,8000000,
                         16000000,32000000]
@@ -258,8 +259,8 @@ def game(screen: pygame.Surface, width: int, height: int, rules: tuple[bool, boo
                             if NEW_ANSWERS.index(box.text[3:]) in PossibleAnswerindex:
                                 box.draw_box(screen, hover = False, font = "arialblack")
                             else:
-                                locked = 2
-                                box.draw_box(screen, hover = False, font = "arialblack", locked = locked)
+                                box.draw_box(screen, hover = False, font = "arialblack", locked = 2)
+                        else: continue
                 UPDATE = False
             
 
