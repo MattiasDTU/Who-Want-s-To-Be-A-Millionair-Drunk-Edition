@@ -85,11 +85,11 @@ Each Excel file must follow the format below to work correctly:
 
 ### 📄 Example File: `example_game.xlsx`
 
-| Question                        | Answer | False1  | False2 | False3 |
-|---------------------------------|--------|---------|--------|--------|
-| What is the capital of France?  | Paris  | Berlin  | Madrid | Rome   |
-| 2 + 2 equals what?              | 4      | 3       | 5      | 6      |
-| Who discovered gravity?         | Newton | Einstein| Tesla  | Hawking|
+|Idx| Question                        | Answer | False1  | False2 | False3 |
+|------|---------------------------------|--------|---------|--------|--------|
+|1.| What is the capital of France?  | Paris  | Berlin  | Madrid | Rome   |
+|2.| 2 + 2 equals what?              | 4      | 3       | 5      | 6      |
+|3.| Who discovered gravity?         | Newton | Einstein| Tesla  | Hawking|
 
 ### 🚀 Adding New Games
 
