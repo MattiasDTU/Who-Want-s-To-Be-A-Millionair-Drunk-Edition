@@ -16,4 +16,6 @@ Ensure you have the following installed:
 - **Libraries**:
   - `pygame`: For GUI (`pip install pygame`)
   - `pandas`: For handling Excel files (`pip install pandas`)
+  - `random`: For randomizing the possible answers (`pip install random`)
 ---
+
