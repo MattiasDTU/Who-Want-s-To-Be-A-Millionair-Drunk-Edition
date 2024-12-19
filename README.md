@@ -42,32 +42,20 @@ The whole program is based around the main.py file, so to run the program, you'l
 ---
 ## File Structure
 
-📂 src
-
+📂 src  
 ├── 📦 components.py    # 🧩 UI components like buttons and text rendering utilities.  
-├── 🖱️ events.py        # 🖱️ Handles mouse interactions and event management.
-
-├── 📊 excel.py         # 📊 Loads and processes questions and answers from Excel files.
-
-├── 🎮 game.py          # 🎮 Main game logic, including lifelines and score tracking.
-
-├── 🚀 main.py          # 🚀 Entry point, responsible for initializing and running the game loop.
-
-├── 🏠 menu.py          # 🏠 Main menu logic and navigation.
-
-├── 📜 rules.py         # 📜 Displays game rules and handles the rules screen.
-
-├── 🎨 screen.py        # 🎨 Screen initialization, scaling, and rendering the background.
-
-├── ⚙️ settings.py      # ⚙️ Configuration options like frame rate and test mode.
-
-├── 🔧 advanced.py      # 🔧 Advanced settings menu for lifelines configuration.
-
-├── 🎨 colors.py        # 🎨 Defines color constants for consistent UI design.
-
-📂 Excel/
-
-├── example_game.xlsx    # 📝 Example Excel file with questions and answers.
+├── 🖱️ events.py        # 🖱️ Handles mouse interactions and event management.  
+├── 📊 excel.py         # 📊 Loads and processes questions and answers from Excel files.  
+├── 🎮 game.py          # 🎮 Main game logic, including lifelines and score tracking.  
+├── 🚀 main.py          # 🚀 Entry point, responsible for initializing and running the game loop.  
+├── 🏠 menu.py          # 🏠 Main menu logic and navigation.  
+├── 📜 rules.py         # 📜 Displays game rules and handles the rules screen.  
+├── 🎨 screen.py        # 🎨 Screen initialization, scaling, and rendering the background.  
+├── ⚙️ settings.py      # ⚙️ Configuration options like frame rate and test mode.  
+├── 🔧 advanced.py      # 🔧 Advanced settings menu for lifelines configuration.  
+├── 🎨 colors.py        # 🎨 Defines color constants for consistent UI design.  
+📂 Excel/  
+├── example_game.xlsx    # 📝 Example Excel file with questions and answers.  
 
 ---
 ### 📝 Excel File Format
