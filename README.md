@@ -18,13 +18,6 @@ Ensure you have the following installed:
   - `pandas`: For handling Excel files (`pip install pandas`)
 ---
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/MattiasDTU/millionaire-quiz-game.git
-   cd millionaire-quiz-game
-
 ## File Structure
 📁 millionaire-quiz-game/
 ├── 📁 Games/                # Folder for Excel game data
