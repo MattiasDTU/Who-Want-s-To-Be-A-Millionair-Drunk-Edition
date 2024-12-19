@@ -42,7 +42,7 @@ The whole program is based around the main.py file, so to run the program, you'l
 ---
 ## File Structure
 
-📂 src  
+📂 code  
 ├── 📦 components.py    # 🧩 UI components like buttons and text rendering utilities.  
 ├── 🖱️ events.py        # 🖱️ Handles mouse interactions and event management.  
 ├── 📊 excel.py         # 📊 Loads and processes questions and answers from Excel files.  
@@ -56,6 +56,7 @@ The whole program is based around the main.py file, so to run the program, you'l
 ├── 🎨 colors.py        # 🎨 Defines color constants for consistent UI design.  
 📂 Excel/  
 ├── example_game.xlsx    # 📝 Example Excel file with questions and answers.  
+📂 images/             
 
 ---
 ### 📝 Excel File Format
