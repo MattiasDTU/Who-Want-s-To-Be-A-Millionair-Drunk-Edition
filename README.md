@@ -93,7 +93,7 @@ Each Excel file must follow the format below to work correctly:
 
 ### 🚀 Adding New Games
 
-1. Create a new Excel file in the `Excel/` folder.
+1. Create a new Excel file in the `Games/` folder.
 2. Follow the column structure described above.
 3. Save your file with a meaningful name (e.g., `science_trivia.xlsx`).
 4. When you run the game, it will automatically include your file in the available game options.
