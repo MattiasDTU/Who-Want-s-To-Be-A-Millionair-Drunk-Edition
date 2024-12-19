@@ -18,6 +18,7 @@ A Python-based interactive quiz game inspired by "Who Wants to Be a Millionaire.
 2. [Instructions](#instructions)
 3. [Installation](#installation)
 4. [File Structure](#file-structure)
+5. [Excel File Format](#excel-file-format)
 ---
 ## Prerequisites
 
