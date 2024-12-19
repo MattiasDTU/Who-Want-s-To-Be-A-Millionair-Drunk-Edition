@@ -44,8 +44,7 @@ The whole program is based around the main.py file, so to run the program, you'l
 
 📂 src
 
-├── 📦 components.py    # 🧩 UI components like buttons and text rendering utilities.
-
+├── 📦 components.py    # 🧩 UI components like buttons and text rendering utilities.  
 ├── 🖱️ events.py        # 🖱️ Handles mouse interactions and event management.
 
 ├── 📊 excel.py         # 📊 Loads and processes questions and answers from Excel files.
