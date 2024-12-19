@@ -45,7 +45,7 @@ def menu(screen: pygame.Surface, width: int, height: int, GAMES: dict) -> None:
     :return: None
     """
     # ---- Game Constants ---- #
-    CURRENT_GAME = "Teddy"
+    CURRENT_GAME = None
     FIFTY_FIFTY = True
     ASK_AUDIENCE = True
     CALL_FRIEND = True
