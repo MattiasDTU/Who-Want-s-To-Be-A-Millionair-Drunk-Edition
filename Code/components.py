@@ -8,6 +8,8 @@ RED_COLOR = (255, 0, 0)
 GREEN_COLOR = (0, 255, 0)
 BLACK_COLOR = (0, 0, 0)
 
+
+
 class Box:
     """
     A class representing a rectangular box with a position, dimensions, and color.
